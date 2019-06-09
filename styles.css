@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    background-color: #d6cbd3;
+    font-size: 18px;
+    font-style: helvetica;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #e6e2d3;
+    font-size: 30px;
+    text-align: center;
+    padding: 1em 0;
+    font-style: helvetica;
+}
+
+.nav a{
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 1em;
+}
+
+#footer {
+    background-color: #e6e2d3;
+    font-size: 16px;
+    text-align: center;
+    padding: 2em;
+}
+
+.map{
+    width: 40%;
+}
+
+img {
+    width: 60%;
+    max-width: 60%;
+}
+
+p {
+    padding: 1em;
+}
+
+/*need to add an element (done), class (done), and id (done). 
+Use document level and inline styles sparingly.
+*/
